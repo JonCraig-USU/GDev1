@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/Ai6atPL0WpwQpml8h52T82oftXBZR+MlsE34MSe+5aZamZyFy76dXEF+sw0BLKhI4Eu8IVmPqqf8Gk6SxQoA==",
+  "success": true,
+  "projectFilePath": "D:\\School\\22Spring\\GameDev\\Projects\\Proj1\\GameLoop\\GameLoop\\GameLoop\\GameLoop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

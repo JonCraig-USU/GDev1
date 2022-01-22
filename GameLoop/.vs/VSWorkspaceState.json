@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameLoop",
+    "\\GameLoop\\GameLoop",
+    "\\GameLoop\\GameLoop\\bin\\Debug",
+    "\\GameLoop\\GameLoop\\bin\\Debug\\netcoreapp3.1",
+    "\\GameLoop\\GameLoop\\obj\\Debug",
+    "\\GameLoop\\GameLoop\\obj\\Debug\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\GameLoop\\GameLoop.sln",
+  "PreviewInSolutionExplorer": false
+}
